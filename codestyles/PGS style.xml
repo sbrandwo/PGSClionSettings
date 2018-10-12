@@ -37,10 +37,4 @@
       <option name="TAB_SIZE" value="3" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="Python">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="3" />
-      <option name="TAB_SIZE" value="3" />
-    </indentOptions>
-  </codeStyleSettings>
 </code_scheme>
