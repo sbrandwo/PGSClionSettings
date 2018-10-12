@@ -31,10 +31,16 @@
       <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
-  <codeStyleSettings language="ObjectiveC">
+  <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="3" />
       <option name="TAB_SIZE" value="3" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ObjectiveC">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="12" />
+      <option name="TAB_SIZE" value="12" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Python">
